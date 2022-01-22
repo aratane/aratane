@@ -67,7 +67,7 @@ style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%
 
 <br><br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SatYu26)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=aratane)
 <!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
 ![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
 
@@ -76,4 +76,4 @@ style="float: left; margin-right: 10px;"  src="https://img.shields.io/badge/git%
 
 
 
-## ⭐️ From [SatYu26](https://github.com/SatYu26)
+## ⭐️ Made With ❤ By [Arata](https://github.com/aratane)

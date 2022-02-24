@@ -27,7 +27,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aratane&langs_count=5&theme=tokyonight)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 
 <br>

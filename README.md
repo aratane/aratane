@@ -28,7 +28,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=aratane&theme=dark&show_icons=true)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Langs](https://github-readme-stats.vercel.app/api?username=aratane&theme=radical&show_icons=true)<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
 
 
 <br>

@@ -23,7 +23,7 @@
 <br>
 
 
-![Satyam's github stats](https://github.com/aratane/github-stats/blob/master/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratane)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>

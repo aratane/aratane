@@ -32,6 +32,10 @@
 
 <br>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aratane)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
 ## Languages and Tools:
 
 <img alt="Badge" 

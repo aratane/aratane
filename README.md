@@ -23,7 +23,7 @@
 <br>
 
 
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=aratane&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Satyam's github stats](https://github.com/aratane/github-stats/blob/master/generated/languages.svg)
 
 
 <br>

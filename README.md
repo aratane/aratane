@@ -23,6 +23,7 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=aratane&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aratane)
 
 
 <br>

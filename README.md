@@ -1,6 +1,6 @@
-# Arata&nbsp;\
+# Arata&nbsp;
 
-### <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="30px"> Hello world!&nbsp;
+### Hello world!&nbsp;
 
 <br>
 

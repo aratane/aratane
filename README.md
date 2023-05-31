@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently working on My Blog, Github Project
 
-- 🌱 I’m currently learning Flutter , Php, JavaScript 
+- 🌱 I’m currently learning Mobile App Development
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles, Bot 
+- 👯 I’m looking to collaborate on Projects, Bot 
 
-- 💬 Talk to me about Flutter, JavaScript, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Freelancing Opportunites
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/aratane?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
